@@ -1,0 +1,99 @@
+#wrapcontact{
+	border:1px solid white;
+	border-radius:5px;
+	position:absolute;
+	top:20px;
+	right:40px;
+	color:white;
+	padding:10px;
+	z-index:10;
+	
+	}
+#wraporder{
+	border:1px solid white;
+	border-radius:5px;
+	position:absolute;
+	top:20px;
+	right:200px;
+	color:white;
+	padding:10px;
+	z-index:10;
+	
+	}
+#line{
+
+
+
+
+}
+.progress-container {
+	position:absolute;
+	bottom:10px;
+  width: 100%;
+  height: 8px;
+  background: #4e4e4e;
+}
+
+.progress-bar {
+  height: 8px;
+  background: #fff;
+  width: 0%;
+  
+}
+
+
+#wraptopmenu{
+	top:0px;
+	position:fixed;
+	height:80px;
+	background:rgba(0, 0, 0, 1);
+	z-index:3;
+	}
+	#wraptopmenu svg{
+	
+	}
+	#wrapmenu{
+	min-height:900px;
+	top:0;
+	position:fixed;
+	width:110px;
+	height:100%;
+	background:#1b1f2b;
+	z-index:9;	
+	}
+	ul{	
+	margin:0;
+	text-align:center;
+	padding:0px;
+	width:100%;
+	}
+	ul a{	
+	font-family: 'Roboto', sans-serif;
+	text-decoration:none;
+	display:block;
+	width:100%;
+	color:orange;
+	
+	}
+	ul a:hover{
+	background:white;
+	color:black;
+	}
+	.material-icons.md-18 { font-size: 18px; }
+	.material-icons.md-24 { font-size: 24px; }
+	.material-icons.md-48 { font-size: 48px; }
+		
+	#wraplogin{
+	position:absolute;
+	bottom:100px;
+	width:100%;
+	}
+	
+	svg circle:hover{
+cursor:pointer;
+}
+
+	
+	
+	
+	

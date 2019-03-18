@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ" crossorigin="anonymous">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+	<link rel="stylesheet" type="text/css" href="mystylemenu.css">
+	<link rel="stylesheet" type="text/css" href="mystylecol.css">
+	<link rel="stylesheet" type="text/css" href="mystyle.css">
+	
+	
+	<style></style>
+
+
+</head>
+<body>
+
+
+
+
+
+<div id="particles-js"></div>
+
+
+
+<div id="wraptopmenu" class="col-xl-12 col-sm-12 col-md-12 col-lg-12 col-12 clearfix">
+<div class="somepx float stub"></div>
+<div id="line" class="che float">
+
+<div class="progress-container che">
+    <div class="progress-bar" id="myBar"></div>
+  </div>  
+
+
+
+
+</div>
+	<div id="wrapcontact">
+		8(909)932-22-64 
+	</div>
+	<div id="wraporder">
+		ОСТАВИТЬ ЗАЯВКУ 
+	</div>
+	
+	</div>
+<div id="wrapmenu" class="col-0">
+<ul>
+	<a  href="#">
+		<img id="logo1" width="45px" src="img/log50.png"><br><br>
+		
+	</a>
+	<a href="#"><i class="fa fa-television md-36"></i><br><br>САЙТЫ</a>
+	<a href="#"><i class="material-icons md-36">smartphone</i><br><br>ПРИЛОЖЕНИЯ</a>
+	<a href="#"><i class="material-icons md-36">local_grocery_store</i><br><br>МАГАЗИН</a>
+	<a href="#"><i class="material-icons md-36">person_pin_circle</i><br><br>О НАС</a>
+</ul>
+<div id="wraplogin">
+	<ul>
+	
+	<a href="#"><i class="fa fa-sign-in md-36"></i><br><br>ВОЙТИ</a>
+	<a href="#"><i class="fa fa-user-circle-o md-36"></i><br><br>РЕГИСТРАЦИЯ</a>
+	</ul>
+</div>
+</div>
+
+
+
+
+
+
+
+<div id="wrapcontentback" class="col-xl-12 сol-xl-12 col-lg-12 col-md-12 col-sm-12 col-12 clearfix ">
+	<div class="stub somepx float"></div>
+	<div id="wrappagecontent" class=" che float">
+		<?php include "pageone.php"; ?>
+	</div>
+</div>
+
+
+
+	
+
+	
+
+
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js" defer></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/particles.js/2.0.0/particles.min.js" defer></script>
+
+<script src="particles.js" defer></script>
+<script src="drawline.js" defer></script>
+</body>
+
+
+
+</html>

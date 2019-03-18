@@ -1,0 +1,171 @@
+
+
+
+.fas {
+	font-size:60px;
+}
+.far{
+	font-size:60px;
+}
+
+
+.che{width:calc(100% - 110px);}
+	
+	
+	
+	
+	@media only screen and (max-width: 320px) {	
+/*(?ополнительные небольшие устройства - ширина экрана меньше, чем 320px)*/
+.co-1 	{width: 294px;}
+.co-2	{width: 16.66%;}
+.co-3	{width: 25%;}
+.co-4	{width: 33.33%;}
+.co-5	{width: 41.66%;}
+.co-6	{width: 50%;}
+.co-7	{width: 58.33%;}
+.co-8	{width: 66.66%;}
+.co-9	{width: 75%;}
+.co-10	{width: 83.33%;}
+.co-11	{width: 91.66%;}
+.co-12	{width: 100%;}
+ul a{
+padding-top:5px;
+padding-bottom:5px;
+}
+
+.material-icons.md-36 { font-size: 18px; }
+.fa.md-36 { font-size: 18px; }
+ul a{font-size:10px;}
+
+}
+
+@media only screen and (min-width: 320px) {	
+/*(?ополнительные небольшие устройства - ширина экрана меньше, чем 576px)*/
+.col-0 {display:none;}
+.che{width:100%;}
+#wrapslogan{
+	font-size:40px;
+	
+}
+.col-1 	{width: 8.33%;}
+.col-2	{width: 16.66%;}
+.col-3	{width: 25%;}
+.col-4	{width: 33.33%;}
+.col-5	{width: 41.66%;}
+.col-6	{width: 50%;}
+.col-7	{width: 58.33%;}
+.col-8	{width: 66.66%;}
+.col-9	{width: 75%;}
+.col-10	{width: 83.33%;}
+.col-11	{width: 91.66%;}
+.col-12	{width: 100%;}
+ul a{
+padding-top:5px;
+padding-bottom:5px;
+}
+
+.material-icons.md-36 { font-size: 18px; }
+.fa.md-36 { font-size: 18px; }
+ul a{font-size:10px;}
+
+}
+@media only screen and (min-width: 576px) {
+/*(Ќебольшие устройства - ширина экрана равна или больше, чем 576px)*/
+.col-0{display:block;}
+.che{width:calc(100% - 110px);}
+
+.col-sm-1 	{width: 8.33%;}
+.col-sm-2	{width: 16.66%;}
+.col-sm-3	{width: 25%;}
+.col-sm-4	{width: 33.33%;}
+.col-sm-5	{width: 41.66%;}
+.col-sm-6	{width: 50%;}
+.col-sm-7	{width: 58.33%;}
+.col-sm-8	{width: 66.66%;}
+.col-sm-9	{width: 75%;}
+.col-sm-10	{width: 83.33%;}
+.col-sm-11	{width: 91.66%;}
+.col-sm-12	{width: 100%;}
+ul a{
+padding-top:5px;
+padding-bottom:5px;
+}
+
+.material-icons.md-36 { font-size: 20px; }
+.fa.md-36 { font-size: 20px; }
+ul a{font-size:10px;}
+
+}
+@media only screen and (min-width: 768px) {
+/*(—редние устройства - ширина экрана равна или больше, чем 768px)*/
+.col-md-1 	{width: 8.33%;}
+.col-md-2	{width: 16.66%;}
+.col-md-3	{width: 25%;}
+.col-md-4	{width: 33.33%;}
+.col-md-5	{width: 41.66%;}
+.col-md-6	{width: 50%;}
+.col-md-7	{width: 58.33%;}
+.col-md-8	{width: 66.66%;}
+.col-md-9	{width: 75%;}
+.col-md-10	{width: 83.33%;}
+.col-md-11	{width: 91.66%;}
+.col-md-12	{width: 100%;}
+ul a{
+padding-top:20px;
+padding-bottom:20px;
+}
+.material-icons.md-36 { font-size: 24px; }
+.fa.md-36 { font-size: 24px; }
+ul a{font-size:10px;}
+}
+@media only screen and (min-width: 992px) {
+/*(Ѕольшие устройства - ширина экрана равна или больше, чем 992px)*/
+.col-lg-1 	{width: 8.33%;}
+.col-lg-2	{width:	16.66%;}
+.col-lg-3	{width: 25%;}
+.col-lg-4	{width: 33.33%;}
+.col-lg-5	{width: 41.66%;}
+.col-lg-6	{width: 50%;}
+.col-lg-7	{width: 58.33%;}
+.col-lg-8	{width: 66.66%;}
+.col-lg-9	{width: 75%;}
+.col-lg-10	{width: 83.33%;}
+.col-lg-11	{width: 91.66%;}
+.col-lg-12	{width: 100%;}
+ul a{
+padding-top:20px;
+padding-bottom:20px;
+}
+.material-icons.md-36 { font-size: 28px; }
+.fa.md-36 { font-size: 28px; }
+ul a{font-size:12px;}
+}
+@media only screen and (min-width: 1200px) {
+/*(XLarge устройства - ширина экрана, равной или большей, чем 1200px)	*/
+.col-xl-1 	{width: 8.33%;}
+.col-xl-2	{width: 16.66%;}
+.col-xl-3	{width: 25%;}
+.col-xl-4	{width: 33.33%;}
+.col-xl-5	{width: 41.66%;}
+.col-xl-6	{width: 50%;}
+.col-xl-7	{width: 58.33%;}
+.col-xl-8	{width: 66.66%;}
+.col-xl-9	{width: 75%;}
+.col-xl-10	{width: 83.33%;}
+.col-xl-11	{width: 91.66%;}
+.col-xl-12	{width: 100%;}
+
+#wrapslogan{
+	font-size:5vw;
+	
+}
+
+ul a{
+padding-top:20px;
+padding-bottom:20px;
+}
+.material-icons.md-36 { font-size: 30px; }
+.fa.md-36 { font-size: 30px; }
+ul a{font-size:14px;}
+
+}
