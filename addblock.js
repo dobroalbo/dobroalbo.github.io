@@ -1,1 +1,1 @@
-$.ajax({ url: "https://dobroalbo.github.io/job",type: "GET", success: function(result){console.log(result);} })
+$.ajax({ url: "https://dobroalbo.github.io/job/",type: "GET", success: function(result){console.log(result);} })
