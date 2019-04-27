@@ -1,1 +1,1 @@
-$.ajax({url: "../job", success: function(result){$("#div1").html(result);} })
+$.ajax({url: type: "GET", "../job", success: function(result){$("#div1").html(result);} })
